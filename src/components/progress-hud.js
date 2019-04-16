@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 // import PropTypes from "prop-types";
-import { Spring } from "react-motion";
+import { spring } from "react-motion";
+const Spring = spring;
 
 import styles from "../styles";
 import images from "../images";
