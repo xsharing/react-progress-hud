@@ -1,17 +1,17 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
+// import PropTypes from "prop-types";
 import { Spring } from "react-motion";
 
 import styles from "../styles";
 import images from "../images";
 
-const propTypes = {
-  clickHandler: PropTypes.func,
-  color: PropTypes.string,
-  isVisible: PropTypes.bool.isRequired,
-  overlayColor: PropTypes.string,
-  overlayOpacity: PropTypes.string
-};
+// const propTypes = {
+//   clickHandler: PropTypes.func,
+//   color: PropTypes.string,
+//   isVisible: PropTypes.bool.isRequired,
+//   overlayColor: PropTypes.string,
+//   overlayOpacity: PropTypes.string
+// };
 const defaultProps = {
   clickHandler: () => {},
   color: "#000",
@@ -85,5 +85,5 @@ export default class ProgressHUD extends Component {
   }
 }
 
-ProgressHUD.propTypes = propTypes;
+// ProgressHUD.propTypes = propTypes;
 ProgressHUD.defaultProps = defaultProps;
