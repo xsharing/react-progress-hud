@@ -30,7 +30,7 @@
   "homepage": "https://github.com/naoufal/react-progress-hud",
   "dependencies": {
     "babel-runtime": "5.8.20",
-    "react-motion": "0.2.7"
+    "react-motion": "^0.5.2"
   },
   "devDependencies": {
     "babel": "5.8.23",
