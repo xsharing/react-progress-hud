@@ -1,6 +1,6 @@
 {
   "name": "react-progress-hud",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A clean and lightweight progress HUD for your React app",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naoufal/react-progress-hud"
+    "url": "https://github.com/xsharing/react-progress-hud"
   },
   "keywords": [
     "react",
@@ -25,9 +25,9 @@
   "author": "Naoufal Kadhom",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/naoufal/react-progress-hud/issues"
+    "url": "https://github.com/xsharing/react-progress-hud/issues"
   },
-  "homepage": "https://github.com/naoufal/react-progress-hud",
+  "homepage": "https://github.com/xsharing/react-progress-hud",
   "dependencies": {
     "babel-runtime": "5.8.20",
     "react-motion": "^0.5.2"
